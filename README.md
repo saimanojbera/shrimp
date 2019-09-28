@@ -19,7 +19,9 @@ Step-4: Notifying the farmers through the app when it detects dead/virus affecte
 Applications:
 
 •	Reduces the losses to farmers in shrimp yielding.
+
 •	Reduces the losses to investors in shrimp production.
+
 •	Increases the growth of shrimp production.
 
 Final Result:
